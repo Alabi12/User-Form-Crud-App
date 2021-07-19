@@ -1,0 +1,22 @@
+
+Form{
+    background-color:slateblue;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 20px;
+    height: 60vh;
+}
+Form.Label{
+    color: #fff;
+ }
+.heading{
+    font-size: 30px;
+    font-family: "Poppins", sans-serif;
+    color: khaki;
+}
+.heading2{
+    font-size: 30px;
+    font-family: "Poppins", sans-serif;
+    color: khaki;
+    margin-top: 20px;
+}
